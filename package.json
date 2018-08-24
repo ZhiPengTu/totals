@@ -22,10 +22,10 @@
   "description": "npm develop demo",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/geneking/npm-develop.git"
+    "url": "git+https://github.com/ZhiPengTu/testui.git"
   },
   "bugs": {
-    "url": "https://github.com/geneking/npm-develop/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/geneking/npm-develop#readme"
+  "homepage": ""
 }
