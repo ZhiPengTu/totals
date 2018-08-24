@@ -1,5 +1,5 @@
 {
-  "name": "npm-develop",
+  "name": "npm-tesstut",
   "version": "0.0.45",
   "main": "index.js",
   "bin": {
