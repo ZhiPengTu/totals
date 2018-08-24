@@ -116,3 +116,4 @@ package.json中的bin命令配置，属性值应该和脚本名称一致
 # testui
 # testui
 # testui
+# testui
