@@ -114,3 +114,4 @@ package.json中的bin命令配置，属性值应该和脚本名称一致
 * download后修改项目名称根据第'三'步可发布，全局安装后可在本机测试，或局部安装后可调用hello函数测试
 # testui
 # testui
+# testui
