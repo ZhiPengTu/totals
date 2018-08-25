@@ -9,7 +9,7 @@ npm install
 ```
 const 【name】 require('layui-totals');
 name.totals(
-    delat:4000,//4s
+    delat:4000,//4s time
     message:'your message'
 );
 ```
