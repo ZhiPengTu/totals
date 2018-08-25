@@ -1,12 +1,10 @@
 /**
 * Hello World
-* @function hello
-**/
-const hello = function(key){
-    console.log('Hello World!');
-};
-var layUI=layUI||{};
-    function totals(options){
+* 
+**/ 
+    const $ =require('jquery');   
+    const layUI= {};
+    const totals=function(options){
         this.timer=null;
         this.options={
             delay:3000,
@@ -34,4 +32,4 @@ var layUI=layUI||{};
         new totals(options);
     }
 
-exports.hello     = hello;
+exports.layUI  = layUI;
