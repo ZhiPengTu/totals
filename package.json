@@ -1,13 +1,13 @@
 {
   "name": "layui-totals",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "layui totals",
   "main": "index.js",
   "bin": {
     "layui-totals": "cli.js"
   },
   "dependencies": {
-    
+
   },
   "devDependencies": {
     "jquery": "^3.3.1"
