@@ -1,6 +1,6 @@
 {
   "name": "layui-totals",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "layui totals",
   "main": "index.js",
   "bin": {
@@ -24,7 +24,7 @@
     "url": "git+https://github.com/ZhiPengTu/totals.git"
   },
   "keywords": [
-    "tzp512512"
+    "layui"
   ],
   "author": "zhipengtu",
   "license": "ISC",
