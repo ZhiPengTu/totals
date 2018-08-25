@@ -1,5 +1,5 @@
 /**
-* Hello World
+*  _totals
 * @function _totals
 **/ 
     const $ =require('jquery');   
