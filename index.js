@@ -2,14 +2,14 @@
 * Hello World
 * @function layUI
 **/ 
-    // const $ =require('jquery');   
+    const $ =require('jquery');   
     const totals=function(options){
         this.timer=null;
         this.options={
             delay:3000,
             message:'hello layUI!'
         }
-    //    $.extend(this.options, options);
+       $.extend(this.options, options);
         this.init();
     }
     totals.prototype.constructor=totals;
@@ -27,8 +27,8 @@
         },_this.options.delay);
     };
     
-    layUI.totals=function(options){
-        new totals(options);
+    const layUI = function(options){
+       this.totals = new totals(options);
     }
 
 exports.layUI  = layUI;
