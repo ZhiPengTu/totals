@@ -1,9 +1,8 @@
 /**
 * Hello World
-* 
+* @function layUI
 **/ 
-    const $ =require('jquery');   
-    const layUI= {};
+    // const $ =require('jquery');   
     const totals=function(options){
         this.timer=null;
         this.options={
