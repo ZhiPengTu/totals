@@ -1,27 +1,27 @@
 {
   "name": "layui-totals",
-  "version": "0.1",
+  "version": "1.0.0",
+  "description": "layui totals",
   "main": "index.js",
   "bin": {
-    "king": "./bin/king.js"
+    "layui-totals": "cli.js"
   },
-  "directories": {},
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "zhipengtu",
-  "license": "ISC",
-  "devDependencies": {},
-  "dependencies": {
-    "commander": "^2.9.0",
-    "express": "^4.14.0",
-    "fs": "^0.0.2",
-    "ncp": "^2.0.0",
-    "jquery": "^3.3.1"
-  },
-  "description": "totals",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ZhiPengTu/totals.git"
-  }
+  },
+  "keywords": [
+    "tzp512512"
+  ],
+  "author": "zhipengtu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhiPengTu/totals/issues"
+  },
+  "homepage": "https://github.com/ZhiPengTu/totals#readme"
 }
