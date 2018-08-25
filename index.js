@@ -10,7 +10,7 @@
             delay:3000,
             message:'hello layUI!'
         }
-        $.extend(this.options, options);
+    //    $.extend(this.options, options);
         this.init();
     }
     totals.prototype.constructor=totals;
