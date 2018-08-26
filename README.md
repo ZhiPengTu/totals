@@ -1,13 +1,14 @@
 ##安装 install
 ```
-cnpm install //淘宝源
+npm i layui-totals 
 ```
+或者
 ```
-npm install
+cnpm i layui-totals
 ```
-##如何使用  how to used?
+##如何使用  how to use?
 ```
-const 【name】 require('layui-totals');
+const name require('layui-totals');
 name.totals(
     delat:4000,//4s time
     message:'your message'

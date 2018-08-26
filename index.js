@@ -31,4 +31,4 @@
        this.totals = new _totals(options);
     }
 
-export {layUI};
+exports.totals=totals;
